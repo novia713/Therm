@@ -34,7 +34,7 @@ So, in order to get Therm installed in your system you can:
 
 * Install it via brew
 
-	brew install caskroom/cask/therm
+	brew cask install therm
 
 Future
 ------
